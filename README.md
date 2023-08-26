@@ -1,5 +1,5 @@
 # college-demo
 This is my first Repository.
 <br>
-Author - Ajay Yadav
+Author - Ajay Yadav (college)
 
